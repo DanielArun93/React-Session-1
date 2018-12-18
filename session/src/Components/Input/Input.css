@@ -1,0 +1,9 @@
+
+.InputDiv input{
+    display: block;
+    margin: 0 auto;
+}
+
+.InputDiv label{
+    line-height: 5;
+}
